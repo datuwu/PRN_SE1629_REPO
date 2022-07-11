@@ -1,0 +1,174 @@
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagement.resources
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Nancy.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetails.resources
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Nancy.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetails.resources
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Nancy.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetails.resources
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll

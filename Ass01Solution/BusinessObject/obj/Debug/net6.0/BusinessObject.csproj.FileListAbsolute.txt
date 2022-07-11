@@ -1,0 +1,48 @@
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\Workspace\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive\Desktop\FPT SUMMER 2022\PRN322\ASM1\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Desktop\my-material\Ki 5\PRN211\Workspace\PRN211_ASM\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Desktop\PRN211_SE1629_Group5\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
